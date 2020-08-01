@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Adultify'),
+        title: Text('Adultify2'),
       ),
       body: Container(
         width: double.infinity,
